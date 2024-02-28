@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=44475a&height=120&section=header"/>
 
-### Olá! Eu sou o Albert Vitor 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?color=36BCF7FF&size=35&duration=2000&center=true&vCenter=true&repeat=false&width=1000&lines=Olá,+eu+sou+o+Albert+Vitor+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?color=36BCF7FF&size=35&duration=2000&center=true&vCenter=true&repeat=false&width=2000&lines=Tenho+22+anos,+sou+da+capital+de+são+paulo,+e+estou+estudando+engenharia+de+software+(front-end))](https://git.io/typing-svg)
 
-<img style="margin-left: 260px" align="center" alt="Vitor-GIF" height="200" width="240" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
 <div style="display: inline_block"><br>
     <h1 style="border: none">Contate-me</h1>
@@ -19,8 +19,8 @@
 <hr>
 <div>
     <a href="https://github.com/uVitin">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uVitin&theme=transparent_icons=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uVitin&theme=transparent_icons=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uVitin&theme=transparent&show_icons=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uVitin&theme=transparent">
     <div>
       <img align="center" alt="Vitor-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
       <img align="center" alt="Vitor-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
@@ -29,5 +29,7 @@
       <img align="center" alt="Vitor-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
     </div>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=44475a&height=120&section=footer"/>
 
 
