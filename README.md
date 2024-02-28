@@ -1,8 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=44475a&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?color=36BCF7FF&size=35&duration=2000&center=true&vCenter=true&repeat=false&width=1000&lines=Olá,+eu+sou+o+Albert+Vitor+%F0%9F%91%8B)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?color=36BCF7FF&size=35&duration=2000&center=true&vCenter=true&repeat=false&width=2000&lines=Tenho+22+anos,+sou+da+capital+de+são+paulo,+e+estou+estudando+engenharia+de+software+(front-end))](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=42&duration=2000&pause=200&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=2300&height=200&lines=Ol%C3%A1%2C+eu+sou+o+Albert+Vitor+%F0%9F%91%8B;Tenho+22+anos%2C+sou+da+capital+de+S%C3%A3o+Paulo+e+estudo+engenharia+de+software+(front-end))](https://git.io/typing-svg)
 
 <div style="display: inline_block"><br>
     <h1 style="border: none">Contate-me</h1>
