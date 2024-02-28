@@ -4,7 +4,7 @@
 
 <div style="display: inline_block"><br>
     <h1 style="border: none">Contate-me</h1>
-    <a href="https://www.linkedin.com/in/albert-vitor-30928020a/">
+    <a href="https://www.linkedin.com/in/albert-vitor-30928020a/" taget="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
     </a>
     <a href="https://www.instagram.com/ae.vitor_/">
