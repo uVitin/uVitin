@@ -20,7 +20,14 @@
       <img align="center" alt="Vitor-Jquery" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg">
       <img align="center" alt="Vitor-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
         <img align="center" alt="Vitor-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
-        ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+        
+    </div>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=44475a&height=120&section=footer"/>
+
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
         ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
         ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
         ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
@@ -39,9 +46,3 @@
         ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
         ![Jest](https://img.shields.io/badge/Jest-15C213?style=for-the-badge&logo=jest&logoColor=white)
         ![Cypress](https://img.shields.io/badge/Cypress-00897B?style=for-the-badge&logo=cypress&logoColor=white)
-    </div>
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=44475a&height=120&section=footer"/>
-
-
