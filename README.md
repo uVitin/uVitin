@@ -9,23 +9,6 @@
     <a href = "mailto:albertvitor18@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <hr>
-<div>
-    <a href="https://github.com/uVitin">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uVitin&theme=transparent&show_icons=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uVitin&theme=transparent">
-    <div>
-      <img align="center" alt="Vitor-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-      <img align="center" alt="Vitor-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-      <img align="center" alt="Vitor-JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-      <img align="center" alt="Vitor-Jquery" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg">
-      <img align="center" alt="Vitor-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
-        <img align="center" alt="Vitor-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
-        
-    </div>
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=44475a&height=120&section=footer"/>
-
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
         ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -46,3 +29,8 @@
         ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
         ![Jest](https://img.shields.io/badge/Jest-15C213?style=for-the-badge&logo=jest&logoColor=white)
         ![Cypress](https://img.shields.io/badge/Cypress-00897B?style=for-the-badge&logo=cypress&logoColor=white)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=44475a&height=120&section=footer"/>
+
+
+
